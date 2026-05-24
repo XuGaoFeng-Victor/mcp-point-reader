@@ -1,0 +1,13 @@
+pyproject.toml
+mcp_point_reader/__init__.py
+mcp_point_reader/capture.py
+mcp_point_reader/config.py
+mcp_point_reader/db.py
+mcp_point_reader/tools.py
+mcp_point_reader/tts.py
+mcp_point_reader.egg-info/PKG-INFO
+mcp_point_reader.egg-info/SOURCES.txt
+mcp_point_reader.egg-info/dependency_links.txt
+mcp_point_reader.egg-info/entry_points.txt
+mcp_point_reader.egg-info/requires.txt
+mcp_point_reader.egg-info/top_level.txt

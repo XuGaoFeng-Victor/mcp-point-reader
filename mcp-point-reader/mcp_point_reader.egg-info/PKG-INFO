@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: mcp-point-reader
+Version: 0.1.0
+Summary: MCP plugin for 点读助手 - screenshot OCR, TTS, vocabulary & history management
+Requires-Python: >=3.10
+Requires-Dist: mcp>=1.0.0
+Requires-Dist: PyQt5>=5.15
+Requires-Dist: edge-tts>=6.1.0
+Requires-Dist: pyttsx3>=2.90
+Requires-Dist: pyperclip>=1.8.2
+Requires-Dist: pygame>=2.5.0
+Requires-Dist: pytesseract>=0.3.10
+Requires-Dist: Pillow>=9.0.0
+Requires-Dist: pynput>=1.7.6
